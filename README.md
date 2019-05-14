@@ -1,10 +1,6 @@
-# Elearning Mobile API
-
-Halo! ini adalah kode terbuka untuk mengintegrasikan dengan [Elearning Mobile](http://github.com/rakaadinugroho/Elarning-Mobile) .
-
 #Teknologi Pengembangan
 1. CodeIgniter
-2. JWT Authentication , contoh sederhananya [Disini](https://github.com/rakaadinugroho/Codeigniter-JWT-User-Authentication)
+2. JWT Authentication
 3. RESTFul APi ( dengan format JSON)
 
 Penggunaan
@@ -28,9 +24,3 @@ Penggunaan
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 7. Sesuaikan `config.php` dan `database.php` di `Application/config` pada sistem API
 8. Tara!!!
-
-Demikian :)
-
-## Dibangun Oleh
-1. [Raka Adi Nugroho](http://github.com/rakaadinugroho)
-2. Yourname?
